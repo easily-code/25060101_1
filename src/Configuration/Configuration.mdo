@@ -38,5 +38,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ПроверкаПодключения</commonModules>
   <catalogs>Catalog.ЕдиницаИзмерения</catalogs>
 </mdclass:Configuration>
